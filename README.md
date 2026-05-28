@@ -214,6 +214,6 @@ project scaffold.
 
 This project is distributed under the terms of the **MIT License**.
 
-Copyright (c) 2026 Jonathan Castro Miguel.
+Original project: Copyright (c) 2026 Jonathan Castro Miguel. Codex adaptation: Alvaro Blazquez Gonzalez
 
 See the [LICENSE](./LICENSE) file for the full license text.
